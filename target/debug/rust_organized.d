@@ -1,0 +1,1 @@
+D:\Projects\Rust\RustWorksheet\target\debug\rust_organized.exe: D:\Projects\Rust\RustWorksheet\src\main.rs D:\Projects\Rust\RustWorksheet\src\worksheet1.rs D:\Projects\Rust\RustWorksheet\src\worksheet2.rs
